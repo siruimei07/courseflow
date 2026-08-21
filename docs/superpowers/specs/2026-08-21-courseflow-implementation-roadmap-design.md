@@ -1,6 +1,6 @@
 # CourseFlow 首个公开版本实施 Roadmap 设计规格
 
-> 状态：五个设计章节已逐节批准；待用户完成书面规格复核
+> 状态：已批准
 > 日期：2026-08-21
 > 目标版本：CourseFlow 首个公开版本
 > 方法：Superpowers brainstorming + writing-for-agents
